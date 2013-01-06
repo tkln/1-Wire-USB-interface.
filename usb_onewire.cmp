@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2012-jan-04)-stable date = Sun 06 Jan 2013 04:59:40 PM EET
+
+BeginCmp
+TimeStamp = /50E964DB;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E9650F;
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = SMDHD/VF;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E964AD;
+Reference = C3;
+ValeurCmp = 10nF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E964C9;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E96F81;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E96F7E;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E99089;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = SM2512;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E963AA;
+Reference = J1;
+ValeurCmp = USB_2;
+IdModule  = USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E973E6;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E9644E;
+Reference = L1;
+ValeurCmp = ferrite_bead;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E969D3;
+Reference = Q1;
+ValeurCmp = 2n7002;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E969DA;
+Reference = Q2;
+ValeurCmp = 2n7002;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E97142;
+Reference = R1;
+ValeurCmp = 270;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E96A7C;
+Reference = R2;
+ValeurCmp = 100k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E97013;
+Reference = R3;
+ValeurCmp = 270;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E96A80;
+Reference = R4;
+ValeurCmp = 4k7;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E96CB0;
+Reference = R5;
+ValeurCmp = 4k7;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50E9637B;
+Reference = U1;
+ValeurCmp = FT232RL;
+IdModule  = SSOP28;
+EndCmp
+
+EndListe
